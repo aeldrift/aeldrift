@@ -40,7 +40,6 @@ Each puzzle is a new opportunity to sharpen my skills and learn something meanin
 <!-- 🔥 Daily Contribution Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aeldrift&theme=default&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF" alt="aeldrift GitHub streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&hide_border=true&title_color=4B0082" />
