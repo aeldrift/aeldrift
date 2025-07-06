@@ -48,18 +48,20 @@ Every puzzle is a new opportunity to sharpen my skills and learn something meani
     <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="30"/>
   </a> -->
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="10"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/aeldrift" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="10"/>
+  <a href="https://github.com/aeldrift" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="30"/>
   </a>
   &nbsp;&nbsp;
   <a href="#" title="Portfolio Coming Soon">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="10"/>
+    <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-portfolio-web-development-flat-icons-inmotus-design.png" alt="Portfolio" height="30"/>
   </a>
 </p>
+
 
 <!-- Animated Typing Line -->
 <p align="center">
