@@ -58,8 +58,8 @@ Every puzzle is a new opportunity to sharpen my skills and learn something meani
   </a>
   &nbsp;&nbsp;
   <a href="#" title="Portfolio Coming Soon">
-    <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-portfolio-web-seo-flatart-icons-flat-flatarticons.png" alt="Portfolio" height="30"/>
-  </a>
+  <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30"/>
+</a>
 </p>
 
 
