@@ -16,13 +16,13 @@
 
 <!-- About Me -->
 <p align="center" style="font-size: 1.15rem; color: #333; line-height: 1.5;">
-🤖 Learning smart solution through AI and machine learning.<br>
-🎨 Dreaming up designs that breathe life into concepts.<br>
-🚀 Growth companions — Discipline, Punctuality, consistency.<br><br>
-I'm an engineering student who enjoys solving real problems through code and intelligent systems.<br>
-I focus on writing clean, efficient solutions and exploring the practical side of AI and machine learning.<br>
-I like to work with structured logic, simplifying complexity, and turning technical concepts into something usable and impactful.<br>
-Each puzzle is a new opportunity to sharpen my skills and learn something meaningful.
+🤖 Exploring smart solutions through AI and machine learning.<br>
+🎨 Dreaming up designs that bring concepts to life.<br>
+🚀 Growth values — Discipline, Punctuality, Consistency.<br><br>
+I'm an engineering student passionate about solving real-world problems through code and intelligent systems.<br>
+I focus on writing clean, efficient solutions and love exploring the practical side of AI and machine learning.<br>
+I enjoy working with structured logic, simplifying complexity, and turning technical ideas into impactful experiences.<br>
+Every puzzle is a new opportunity to sharpen my skills and learn something meaningful.
 </p>
 
 <!-- Skills Set -->
@@ -35,30 +35,29 @@ Each puzzle is a new opportunity to sharpen my skills and learn something meanin
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700" height="165" />
-<!-- 🔥 Daily Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700" height="165" />
-  
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&hide_border=true&title_color=4B0082" />
 </p>
 
-
-
 <!-- Contact Section -->
-<h3 align="center"> 🌐 Find me Online </h3>
+<h3 align="center">🌐 Find me Online</h3>
 <p align="center">
-  <a href= "mailto:jindalteesha22@gmail.com">
-<!--     <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="10" "/>
-  </a> -->
-  
+  <a href="mailto:jindalteesha22@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="30"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/aeldrift" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30"/>
   </a>
+  &nbsp;&nbsp;
   <a href="#" title="Portfolio Coming Soon">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="10"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30"/>
   </a>
 </p>
 
@@ -69,5 +68,5 @@ Each puzzle is a new opportunity to sharpen my skills and learn something meanin
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=48&fontColor=ffffff&color=0:4B0082,50:00C9A7,100:FFD700" alt="aeldrift banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=48&fontColor=ffffff&color=0:4B0082,50:00C9A7,100:FFD700" alt="footer banner" />
 </p>
