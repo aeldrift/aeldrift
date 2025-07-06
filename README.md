@@ -52,13 +52,13 @@ Each puzzle is a new opportunity to sharpen my skills and learn something meanin
   </a> -->
   
   <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20"/>
   </a>
   <a href="https://github.com/aeldrift" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="20"/>
   </a>
   <a href="#" title="Portfolio Coming Soon">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="20"/>
   </a>
 </p>
 
