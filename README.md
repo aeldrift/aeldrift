@@ -46,8 +46,8 @@ Every puzzle is a new opportunity to sharpen my skills and learn something meani
 <p align="center">
 <!--   <a href="mailto:jindalteesha22@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="30"/>
-  </a> -->
-  &nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp; -->
 <p align="center">
   <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/>
@@ -58,7 +58,7 @@ Every puzzle is a new opportunity to sharpen my skills and learn something meani
   </a>
   &nbsp;&nbsp;
   <a href="#" title="Portfolio Coming Soon">
-    <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-portfolio-web-development-flat-icons-inmotus-design.png" alt="Portfolio" height="30"/>
+    <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-portfolio-web-seo-flatart-icons-flat-flatarticons.png" alt="Portfolio" height="30"/>
   </a>
 </p>
 
