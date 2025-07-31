@@ -63,9 +63,9 @@ Every puzzle is a new opportunity to sharpen my skills and learn something meani
 </p>
 
 
-<!-- Animated Typing Line -->   Refining skills and expertise.
+<!-- Animated Typing Line -->   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=4B0082&center=true&vCenter=true&width=400&lines=Refining+skills+and+potential!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=4B0082&center=true&vCenter=true&width=400&lines=Growth+is+my+goal!" />
 </p>
 
 <!-- Footer Banner -->
