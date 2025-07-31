@@ -43,8 +43,8 @@ Every puzzle is a new opportunity to sharpen my skills and learn something meani
 
 ### 📊 GitHub Stats
 
-![Teesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=radical)
+![Teesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=graywhite)
 
 
 <!-- Contact Section -->
