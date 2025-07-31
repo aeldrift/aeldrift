@@ -19,10 +19,9 @@
 🤖 Exploring smart solutions through AI and machine learning.<br>
 🎨 Dreaming up designs that bring concepts to life.<br>
 🚀 Growth values — Discipline, Punctuality, Consistency.<br><br>
-I'm an engineering student passionate about solving real-world problems through code and intelligent systems.<br>
-I focus on writing clean, efficient solutions and love exploring the practical side of AI and machine learning.<br>
-I enjoy working with structured logic, simplifying complexity, and turning technical ideas into impactful experiences.<br>
-Every puzzle is a new opportunity to sharpen my skills and learn something meaningful.
+I’m passionate about solving real-world problems through code and intelligent systems.  
+Currently focused on writing clean, efficient solutions and exploring the practical side of AI and machine learning.
+  🧩 Every challenge is a chance to grow, debug, and evolve.
 </p>
 
 <!-- Skills Set -->
@@ -40,11 +39,6 @@ Every puzzle is a new opportunity to sharpen my skills and learn something meani
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&hide_border=true&title_color=4B0082" />
 </p> 
-
-### 📊 GitHub Stats
-
-![Teesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=graywhite)
 
 
 <!-- Contact Section -->
