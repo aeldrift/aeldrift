@@ -19,9 +19,10 @@
 🤖 Exploring smart solutions through AI and machine learning.<br>
 🎨 Dreaming up designs that bring concepts to life.<br>
 🚀 Growth values — Discipline, Punctuality, Consistency.<br><br>
+  🧩 Every challenge is a chance to grow, debug, and evolve.<br><br>
 I’m passionate about solving real-world problems through code and intelligent systems.  
 Currently focused on writing clean, efficient solutions and exploring the practical side of AI and machine learning.
-  🧩 Every challenge is a chance to grow, debug, and evolve.
+  
 </p>
 
 <!-- Skills Set -->
