@@ -40,6 +40,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&hide_border=true&title_color=4B0082" />
 </p> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=graywhite)
 
 
 <!-- Contact Section -->
