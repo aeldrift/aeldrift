@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=48&fontColor=ffffff&color=0:4B0082,50:00C9A7,100:FFD700" alt="aeldrift banner" />
 </p>
 
+
 <!-- Greeting -->
 <h1 align="center">Hey! I'm Teesha 👋</h1>
 <p align="center"><b>Engineering Student | Creative Coder | Aspiring AI Enthusiast</b></p>
