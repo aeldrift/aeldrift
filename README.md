@@ -75,6 +75,11 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 [![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+![PageSpeed Insights](https://pagespeed-insights.herokuapp.com/?url=https://aeldrift.github.io)
+
+
+
 <!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=48&fontColor=ffffff&color=0:4B0082,50:00C9A7,100:FFD700" alt="footer banner" />
