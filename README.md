@@ -80,10 +80,24 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 </a>
 </p>
 
-<!-- Animated Typing Line -->   
+<!-- Contact Section -->
+<h3 align="center">🌐 Find me Online</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=4B0082&center=true&vCenter=true&width=400&lines=Growth+is+my+goal!" />
+  <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/50/linkedin.png" alt="LinkedIn" height="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aeldrift" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" height="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Portfolio Coming Soon">
+    <img src="https://img.icons8.com/fluency/50/portfolio.png" alt="Portfolio" height="60"/>
+  </a>
 </p>
+
+
+
 
   <!-- Animated Typing Line -->   
 <p align="center">
