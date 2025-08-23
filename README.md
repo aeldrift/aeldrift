@@ -43,14 +43,20 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&hide_border=true&title_color=4B0082" />
-</p> 
+  <!-- Left: GitHub Contributions Graph 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=radical" alt="GitHub Streak" width="48%"/>  -->
 
+<!-- Right: Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="48%"/>
 
+</div>
 
+ ### Activity Calendar
+<!-- [![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github)
 
 
 <!-- Contact Section -->
@@ -78,25 +84,6 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=4B0082&center=true&vCenter=true&width=400&lines=Growth+is+my+goal!" />
 </p>
-
-
-<div align="center">
-
-  <!-- Left: GitHub Contributions Graph 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=radical" alt="GitHub Streak" width="48%"/>  -->
-
-<!-- Right: Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="48%"/>
-
-</div>
-
- ### Activity Calendar
-<!-- [![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github)
-
-
-
   
 
 
