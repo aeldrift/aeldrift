@@ -76,15 +76,13 @@ Currently focused on writing clean, efficient solutions and exploring the practi
   </a>
 </p>
 
-
-
+<br>
+<br>
 
   <!-- Animated Typing Line -->   
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2000&pause=1000&color=4B0082&center=true&vCenter=true&width=800&lines=Growth+is+my+goal!" />
 </p>
-
-
 
 
 <!--👀Profile Views 
