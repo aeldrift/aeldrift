@@ -68,7 +68,10 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=4B0082&center=true&vCenter=true&width=400&lines=Growth+is+my+goal!" />
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=aeldrift&color=blue)
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=aeldrift&color=blue&style=flat-square)
+
 
 <!-- Footer Banner -->
 <p align="center">
