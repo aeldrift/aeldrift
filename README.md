@@ -78,6 +78,10 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 </a>
 </p>
 
+| Progress Graph | a12 | Most Used Languages |
+|----------------|-----|---------------------|
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=radical" alt="GitHub Streak" width="300"/> | a12 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=radical" alt="Top Languages" width="300"/> |
+
 
 <!-- Animated Typing Line -->   
 <p align="center">
