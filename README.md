@@ -5,30 +5,6 @@
 </p>
 
 
-
-
-
-| Most Used Languages | Find Me Online |
-|---------------------|----------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=radical" alt="Top Languages" width="400"/> | <p align="center">
-  <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aeldrift" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Portfolio Coming Soon">
-    <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30"/>
-  </a>
-</p> |
-
-
-
-
-
-
 <!-- Greeting -->
 <h1 align="center">Hey! I'm Teesha 👋</h1>
 <p align="center"><b>Engineering Student | Creative Coder | Aspiring AI Enthusiast</b></p>
@@ -98,11 +74,6 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 </a>
 </p>
 
-| Progress Graph | a12 | Most Used Languages |
-|----------------|-----|---------------------|
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=radical" alt="GitHub Streak" width="300"/> | a12 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=radical" alt="Top Languages" width="300"/> |
-
-
 <!-- Animated Typing Line -->   
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=1000&color=4B0082&center=true&vCenter=true&width=400&lines=Growth+is+my+goal!" />
@@ -119,26 +90,6 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github)
 
-<!-- Contact Section -->
-<h3 align="center">🌐 Find me Online</h3>
-<p align="center">
-<!--   <a href="mailto:jindalteesha22@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="30"/>
-  </a>
-  &nbsp;&nbsp; -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aeldrift" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Portfolio Coming Soon">
-  <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30"/>
-</a>
-</p>
 
 
   <!-- Right: Most Used Languages -->
