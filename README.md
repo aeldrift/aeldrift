@@ -52,6 +52,8 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 </p> 
 
 
+![GitHub 3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <!-- Contact Section -->
 <h3 align="center">🌐 Find me Online</h3>
