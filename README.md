@@ -32,10 +32,6 @@ Currently focused on writing clean, efficient solutions and exploring the practi
   <b>🐍 Python &nbsp;|&nbsp; 🌐 HTML & CSS &nbsp;|&nbsp; 💻 C Language &nbsp;|&nbsp; 🤖 AI & ML (Learning)</b>
 </p>
 
-### Activity Calendar
-<!-- [![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github)
 
 
 <!-- GitHub Stats -->
@@ -44,6 +40,13 @@ Currently focused on writing clean, efficient solutions and exploring the practi
   <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700" height="165" />
 </p>
+
+### Activity Calendar
+<!-- [![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&hide_border=true&title_color=4B0082" />
 </p> 
