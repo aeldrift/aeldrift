@@ -5,6 +5,30 @@
 </p>
 
 
+
+
+
+| Most Used Languages | Find Me Online |
+|---------------------|----------------|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=radical" alt="Top Languages" width="400"/> | <p align="center">
+  <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aeldrift" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Portfolio Coming Soon">
+    <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30"/>
+  </a>
+</p> |
+
+
+
+
+
+
 <!-- Greeting -->
 <h1 align="center">Hey! I'm Teesha 👋</h1>
 <p align="center"><b>Engineering Student | Creative Coder | Aspiring AI Enthusiast</b></p>
