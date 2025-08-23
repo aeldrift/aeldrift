@@ -75,8 +75,8 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 [![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-![PageSpeed Insights](https://pagespeed-insights.herokuapp.com/?url=https://aeldrift.github.io)
+### Contributions Calendar  
+![GitHub Contribution Graph](https://raw.githubusercontent.com/aeldrift/aeldrift/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
