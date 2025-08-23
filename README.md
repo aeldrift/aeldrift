@@ -41,6 +41,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700" height="165" />
 </p>
 
+<div align="center">
 ### Activity Calendar
 <!-- [![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
@@ -51,6 +52,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&hide_border=true&title_color=4B0082" />
 </p> 
 
+</div>
 
 
 
