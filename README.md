@@ -56,7 +56,6 @@ Currently focused on writing clean, efficient solutions and exploring the practi
  ### Activity Calendar
 <!-- [![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=white)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&bg_color=ffffff&color=000000&line=1f77b4&point=1f77b4&area=true&area_color=add8e6)
 
 
@@ -64,20 +63,20 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <h3 align="center">🌐 Find me Online</h3>
 <p align="center">
 <!--   <a href="mailto:jindalteesha22@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="30"/>
+    <img src="https://img.icons8.com/color/50/gmail--v1.png" alt="Gmail" height="30"/>
   </a>
   &nbsp;&nbsp; -->
 <p align="center">
   <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/>
+    <img src="https://img.icons8.com/color/50/linkedin.png" alt="LinkedIn" height="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/aeldrift" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="30"/>
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" height="32"/>
   </a>
   &nbsp;&nbsp;
   <a href="#" title="Portfolio Coming Soon">
-  <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30"/>
+  <img src="https://img.icons8.com/fluency/50/portfolio.png" alt="Portfolio" height="32"/>
 </a>
 </p>
 
