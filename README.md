@@ -70,7 +70,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 </p>
 
 <!--👀Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=aeldrift&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aeldrift&color=blue&style=flat-square&align=end)
 
 
 <!-- Footer Banner -->
