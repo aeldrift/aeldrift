@@ -94,6 +94,29 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <!-- [![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github)
+
+<!-- Contact Section -->
+<h3 align="center">🌐 Find me Online</h3>
+<p align="center">
+<!--   <a href="mailto:jindalteesha22@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" height="30"/>
+  </a>
+  &nbsp;&nbsp; -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aeldrift" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Portfolio Coming Soon">
+  <img src="https://img.icons8.com/fluency/48/portfolio.png" alt="Portfolio" height="30"/>
+</a>
+</p>
+
+
   <!-- Right: Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 
