@@ -86,8 +86,9 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2000&pause=1000&color=4B0082&center=true&vCenter=true&width=800&lines=Growth+is+my+goal!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2000&pause=1000&color=fff000&center=true&vCenter=true&width=800&lines=Growth+is+my+goal!" />
 </p>
+
 
 
 
