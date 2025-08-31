@@ -98,3 +98,9 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=48&fontColor=ffffff&color=0:4B0082,50:00C9A7,100:FFD700" alt="footer banner" />
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=48&fontColor=ffffff&color=0:8A2BE2,50:00E5FF,100:FFD700&reversal=false&animation=fadeIn&stroke=ffffff&strokeWidth=0.3&backgroundColor=000000" alt="footer banner" />
+</p>
+
