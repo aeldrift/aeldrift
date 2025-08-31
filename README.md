@@ -10,8 +10,9 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=48&fontColor=FFFFFF&color=gradient&customColorList=0,FF0000,FF9900,FFFF00,00FF00,00FFFF,0000FF,FF00FF&backgroundColor=000000" alt="aeldrift banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=48&fontColor=FFFFFF&color=0:00FFFF,50:FF00FF,100:FFFF00&backgroundColor=000000" alt="aeldrift banner" />
 </p>
+
 
 
 
