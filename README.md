@@ -82,14 +82,15 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <br>
 
   <!-- Animated Typing Line -->   
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2000&pause=1000&color=fff000&center=true&vCenter=true&width=800&lines=Growth+is+my+goal!" />
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2000&pause=1000&color=DA00FF&center=true&vCenter=true&width=800&lines=Growth+is+my+goal!" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=2000&pause=1000&color=A020F0&center=true&vCenter=true&width=800&lines=Growth+is+my+goal!" />
+</p>
+
 
 
 <!--👀Profile Views 
