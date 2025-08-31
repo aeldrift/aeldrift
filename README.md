@@ -1,19 +1,9 @@
 <!-- About Me -->
 <!-- Banner (Header) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=48&fontColor=ffffff&color=0:4B0082,50:00C9A7,100:FFD700" alt="aeldrift banner" />
-</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=48&fontColor=ffffff&color=0:8A2BE2,50:00E5FF,100:FFD700&reversal=false&animation=fadeIn&stroke=ffffff&strokeWidth=0.3&backgroundColor=000000" alt="aeldrift banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=48&fontColor=ffffff&color=0:8A2BE2,50:00E5FF,100:FFD700&reversal=false&animation=fadeIn&stroke=ffffff&strokeWidth=0.3&backgroundColor=000000" alt="profile banner" />
 </p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=48&fontColor=FFFFFF&color=0:00FFFF,50:FF00FF,100:FFFF00&backgroundColor=000000" alt="aeldrift banner" />
-</p>
-
-
 
 
 <!-- Greeting -->
