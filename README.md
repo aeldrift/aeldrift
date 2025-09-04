@@ -71,6 +71,18 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&bg_color=ffffff&color=000000&line=1f77b4&point=1f77b4&area=true&area_color=add8e6)
 
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700" height="165" />
+  <img src="https://streak-stats.demolab.com?user=aeldrift&theme=radical&hide_border=true" height="165" />
+</p>
+
+<div align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright&hide_border=true" alt="Top Languages" width="48%"/>
+</div>
 
 
 <!-- Contact Section -->
