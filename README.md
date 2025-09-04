@@ -42,7 +42,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700" height="165" />
 </p>
 
-    <div align="center">
+ <!--   <div align="center">
 
   <!-- Left: GitHub Contributions Graph -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=radical" alt="GitHub Streak" width="48%"/> 
@@ -52,7 +52,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 </div>    
 
-<!--  <div align="center">
+  <div align="center">
 
   <!-- Left: GitHub Contributions Graph -->
   <img src="https://streak-stats.demolab.com?user=aeldrift&theme=radical" alt="GitHub Streak" width="48%"/>
