@@ -53,13 +53,16 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;">
 
   <!-- Most Used Languages -->
+ <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;">
+
+  <!-- Most Used Languages -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" align="left" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="300"/>
   </div>
 
   <!-- Contact Section -->
   <div>
-    <h3 align="right">🌐 Find me Online</h3>
+    <h3 align="center">🌐 Find me Online</h3>
     <p align="center">
       <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/50/linkedin.png" alt="LinkedIn" height="50"/>
@@ -76,8 +79,6 @@ Currently focused on writing clean, efficient solutions and exploring the practi
   </div>
 
 </div>
-
-
 
   <!-- Animated Typing Line -->   
 
