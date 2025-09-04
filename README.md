@@ -79,32 +79,6 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 
 
-<!--
-
- <!-- Right: Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="48%"/>
-</div>   
-
-
-<!-- Contact Section -->
-<h3 align="center">🌐 Find me Online</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/50/linkedin.png" alt="LinkedIn" height="60"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aeldrift" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" height="60"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Portfolio">
-    <img src="https://img.icons8.com/fluency/50/portfolio.png" alt="Portfolio" height="60"/>
-  </a>
-</p>
-
-<br>
-<br> -->
-
   <!-- Animated Typing Line -->   
 
 <p align="center">
