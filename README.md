@@ -42,9 +42,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700" height="165" />
 </p>
 
-
-
-<!--     <div align="center">
+    <div align="center">
 
   <!-- Left: GitHub Contributions Graph -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=radical" alt="GitHub Streak" width="48%"/> 
@@ -52,9 +50,9 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <!-- Right: Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="48%"/>
 
-</div>     -->
+</div>    
 
-<div align="center">
+<!--  <div align="center">
 
   <!-- Left: GitHub Contributions Graph -->
   <img src="https://streak-stats.demolab.com?user=aeldrift&theme=radical" alt="GitHub Streak" width="48%"/>
@@ -62,7 +60,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
   <!-- Right: Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="48%"/>
 
-</div>
+</div>    -->
 
 
 
@@ -71,18 +69,6 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&bg_color=ffffff&color=000000&line=1f77b4&point=1f77b4&area=true&area_color=add8e6)
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700" height="165" />
-  <img src="https://streak-stats.demolab.com?user=aeldrift&theme=radical&hide_border=true" height="165" />
-</p>
-
-<div align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright&hide_border=true" alt="Top Languages" width="48%"/>
-</div>
 
 
 <!-- Contact Section -->
