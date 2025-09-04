@@ -43,16 +43,47 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 </p>
 
 
- <!-- Right: Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="48%"/>
 
-</div>   
 
 <!-- Activity Calendar
 [![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&bg_color=ffffff&color=000000&line=1f77b4&point=1f77b4&area=true&area_color=add8e6)
 
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;">
+
+  <!-- Most Used Languages -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="300"/>
+  </div>
+
+  <!-- Contact Section -->
+  <div>
+    <h3 align="center">🌐 Find me Online</h3>
+    <p align="center">
+      <a href="https://www.linkedin.com/in/teesha-jindal-79a27531a" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/color/50/linkedin.png" alt="LinkedIn" height="50"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/aeldrift" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub" height="50"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="#" title="Portfolio">
+        <img src="https://img.icons8.com/fluency/50/portfolio.png" alt="Portfolio" height="50"/>
+      </a>
+    </p>
+  </div>
+
+</div>
+
+
+
+<!--
+
+ <!-- Right: Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="48%"/>
+</div>   
 
 
 <!-- Contact Section -->
@@ -72,7 +103,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 </p>
 
 <br>
-<br>
+<br> -->
 
   <!-- Animated Typing Line -->   
 
