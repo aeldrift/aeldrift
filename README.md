@@ -46,8 +46,8 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 <div align="center">
 
-  <!-- Left: GitHub Contributions Graph 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=radical" alt="GitHub Streak" width="48%"/>  -->
+  <!-- Left: GitHub Contributions Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=radical" alt="GitHub Streak" width="48%"/> 
 
 <!-- Right: Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="48%"/>
