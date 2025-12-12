@@ -44,24 +44,11 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;">
 
-  <!-- GitHub Stats -->
-  <div>
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=radical&hide_border=true)
-
-  </div>
-
-  <!-- Most Used Languages -->
-  <div>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=radical)
-
-  </div>
-
-<!-- </div> -->
-
-<!-- Contribution Snake -->
+<!-- GitHub Stats card -->
 <div align="center">
- ![GitHub Snake](https://github.com/aeldrift/github-readme-snake.svg)
-
+  <a href="https://github.com/aeldrift" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" width="600"/>
+  </a>
 </div>
 
 
