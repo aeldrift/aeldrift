@@ -42,19 +42,25 @@ Currently focused on writing clean, efficient solutions and exploring the practi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700" height="165" />
 </p>
 
-
-
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;">
 
   <!-- GitHub Stats -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700" alt="GitHub Stats" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700" width="300"/>
   </div>
 
   <!-- Most Used Languages -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" width="300"/>
   </div>
+
+</div>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://github.com/aeldrift/github-readme-snake.svg" width="600"/>
+</div>
+
 
 </div>
 
