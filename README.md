@@ -50,6 +50,29 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 </div>
 
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 30px;">
+
+  <!-- GitHub Stats Card -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700" height="165" alt="GitHub Stats"/>
+  </div>
+
+  <!-- Contribution Streak -->
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700" height="165" alt="GitHub Streak"/>
+  </div>
+
+  <!-- Daily Contribution Graph (Heatmap) -->
+  <div>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aeldrift&theme=react-dark&area=true&hide_border=true" alt="GitHub Contributions" width="600"/>
+  </div>
+
+</div>
+
+
 
   <!-- Contact Section -->
   <div>
