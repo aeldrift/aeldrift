@@ -51,7 +51,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=aeldrift)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=aeldrift)
 
 
 
