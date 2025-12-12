@@ -45,7 +45,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
  <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;"> 
 
 ## 📊 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github-light)
 
 
 ---
