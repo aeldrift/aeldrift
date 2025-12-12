@@ -37,15 +37,15 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 <!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700" height="165" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700" height="165" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700" height="165" />  
 </p>
 
- <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;"> 
+  <!-- <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;"> -->
 
 ## 📊 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github)  
 
 
 ---
