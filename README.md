@@ -43,7 +43,8 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 </p>
 
  <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;"> 
-
+   
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=aeldrift&theme=react-dark&area=true&hide_border=true)
 
 
 
