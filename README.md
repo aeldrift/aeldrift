@@ -44,20 +44,20 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 
 
-<!-- Activity Calendar
-[![teesha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&bg_color=ffffff&color=000000&line=1f77b4&point=1f77b4&area=true&area_color=add8e6&token=TOKEN_PLACEHOLDER)
-
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;">
 
-  <!-- Most Used Languages -->
- <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;">
+  <!-- GitHub Stats -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700" alt="GitHub Stats" width="300"/>
+  </div>
 
   <!-- Most Used Languages -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=bright" alt="Top Languages" width="300"/>
   </div>
+
+</div>
+
 
   <!-- Contact Section -->
   <div>
