@@ -44,6 +44,14 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
  <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;"> 
 
+## 📊 GitHub Activity
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aeldrift&theme=github)
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=aeldrift)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
   <!-- Contact Section -->
