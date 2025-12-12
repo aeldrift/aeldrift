@@ -14,12 +14,13 @@
 #         with:
 #           token: ${{ secrets.PAT_1 }}
 
+
 name: Update README sections
 
 on:
-  schedule:
-    - cron: "0 * * * *"   # updates every hour
   workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
   update-readme:
@@ -28,13 +29,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # GitHub Readme Stats
-      - uses: anuraghazra/github-readme-stats@master
-        with:
-          token: ${{ secrets.PAT_1 }}
+      - name: Replace placeholder with token
+        run: sed -i "s/TOKEN_PLACEHOLDER/${{ secrets.PAT_1 }}/g" README.md
 
-      # Activity Graph
-      - name: Update Activity Graph
+      - name: Commit changes
         run: |
-          sed -i "s|TOKEN_PLACEHOLDER|${{ secrets.PAT_1 }}|g" README.md
-
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update activity graph token" || echo "No changes"
+          git push
