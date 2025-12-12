@@ -43,13 +43,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 </p>
 
  <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 30px;"> 
-<div align="center">
-  <img src="https://github.com/aeldrift/github-readme-snake.svg" alt="GitHub Contributions Snake" width="900"/>
-</div>
-
-
-</div>
-
+![GitHub Snake](https://github.com/aeldrift/github-readme-snake.svg)
 
 </div>
 
