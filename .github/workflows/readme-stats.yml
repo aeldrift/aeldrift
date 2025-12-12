@@ -1,15 +1,40 @@
-name: Update README stats
+# name: Update README stats
+
+# on:
+#   schedule:
+#     - cron: "0 * * * *"
+#   workflow_dispatch:
+
+# jobs:
+#   update:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+#       - uses: anuraghazra/github-readme-stats@master
+#         with:
+#           token: ${{ secrets.PAT_1 }}
+
+name: Update README sections
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # updates every hour
   workflow_dispatch:
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
+
+      # GitHub Readme Stats
       - uses: anuraghazra/github-readme-stats@master
         with:
           token: ${{ secrets.PAT_1 }}
+
+      # Activity Graph
+      - name: Update Activity Graph
+        run: |
+          sed -i "s|TOKEN_PLACEHOLDER|${{ secrets.PAT_1 }}|g" README.md
+
