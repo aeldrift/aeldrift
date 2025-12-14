@@ -1,18 +1,30 @@
-# name: Update README stats
+
+
+# name: Update README sections
 
 # on:
+#   workflow_dispatch:
 #   schedule:
 #     - cron: "0 * * * *"
-#   workflow_dispatch:
 
 # jobs:
-#   update:
+#   update-readme:
 #     runs-on: ubuntu-latest
+
 #     steps:
 #       - uses: actions/checkout@v3
-#       - uses: anuraghazra/github-readme-stats@master
-#         with:
-#           token: ${{ secrets.PAT_1 }}
+
+#       - name: Replace placeholder with token
+#         run: sed -i "s/TOKEN_PLACEHOLDER/${{ secrets.PAT_1 }}/g" README.md
+
+#       - name: Commit changes
+#         run: |
+#           git config --global user.email "actions@github.com"
+#           git config --global user.name "GitHub Actions"
+#           git add README.md
+#           git commit -m "Update activity graph token" || echo "No changes"
+#           git push
+
 
 
 name: Update README sections
@@ -30,12 +42,15 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Replace placeholder with token
-        run: sed -i "s/TOKEN_PLACEHOLDER/${{ secrets.PAT_1 }}/g" README.md
+        run: |
+          echo "Replacing token placeholder..."
+          sed -i "s|TOKEN_PLACEHOLDER|${{ secrets.PAT_1 }}|g" README.md
 
       - name: Commit changes
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git add README.md
-          git commit -m "Update activity graph token" || echo "No changes"
+          git diff --cached --quiet || git commit -m "Update activity graph token"
           git push
+
