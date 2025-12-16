@@ -35,24 +35,11 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 
 
-<!-- GitHub Stats 
+<!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700" height="165" />  
-</p>-->
-
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center"> 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=transparent&hide_border=true&title_color=4B0082&icon_color=FFD700"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.vercel.app?user=aeldrift&theme=transparent&hide_border=true&ring=00C9A7&currStreakLabel=FFD700"
-    height="165"
-  />
 </p>
 
 
