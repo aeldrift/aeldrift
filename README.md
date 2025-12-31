@@ -50,9 +50,17 @@ height="165"
 />
 </p>
 
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github-compact&hide_border=true" />
+</p>
+
 
 ## 🏆 GitHub Trophies
+<p align="center">
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=aeldrift)
+</p>
 
 
 
