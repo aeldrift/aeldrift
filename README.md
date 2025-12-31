@@ -35,25 +35,14 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 
 
-<!-- GitHub Stats -->
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-<img
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aeldrift&show_icons=true&hide_border=true"
-height="165"
-/>
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&hide_border=true"
-height="165"
-/>
-</p>
+c
 
 <h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github-compact&hide_border=true" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github-compact&hide_border=true" /> -->
+  <img src="https://github-trophies.vercel.app/?username=aeldrift&theme=onedark&row=2&column=4" />
+
 </p>
 
 
