@@ -35,7 +35,7 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 
 
 
-c
+
 
 <h3 align="center">📈 Contribution Activity</h3>
 
