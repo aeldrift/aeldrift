@@ -33,7 +33,13 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <b>🐍 Python &nbsp;|&nbsp; 🌐 HTML & CSS &nbsp;|&nbsp; 💻 C Language &nbsp;|&nbsp; 🤖 AI & ML (Learning)</b>
 </p>
 
+<h2 align="center">🔥 GitHub Streak</h2>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=aeldrift&theme=onedark&hide_border=true"
+  />
+</p>
 
 
 
