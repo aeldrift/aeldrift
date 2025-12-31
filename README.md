@@ -40,18 +40,17 @@ c
 <h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github-compact&hide_border=true" /> -->
-  <img src="https://github-trophies.vercel.app/?username=aeldrift&theme=onedark&row=2&column=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=github-compact&hide_border=true" />
+  
 
 </p>
-
-
 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=aeldrift" />
+    <img src="https://github-trophies.vercel.app/?username=aeldrift&theme=onedark&row=2&column=4" />
 </p>
 
 
