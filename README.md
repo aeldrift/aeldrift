@@ -50,10 +50,10 @@ height="165"
 />
 </p>
 
-<p align="center">
+
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=aeldrift)
-</p>
+
 
 
 <!-- Contact Section -->
