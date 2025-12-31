@@ -57,11 +57,13 @@ height="165"
 </p>
 
 
-## 🏆 GitHub Trophies
-<p align="center">
-![GitHub Trophies](https://github-trophies.vercel.app/?username=aeldrift)
-</p>
 
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=aeldrift" />
+</p>
 
 
 <!-- Contact Section -->
