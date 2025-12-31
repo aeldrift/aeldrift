@@ -33,22 +33,6 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <b>🐍 Python &nbsp;|&nbsp; 🌐 HTML & CSS &nbsp;|&nbsp; 💻 C Language &nbsp;|&nbsp; 🤖 AI & ML (Learning)</b>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aeldrift&show_icons=true&rank_icon=github&theme=onedark&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=aeldrift&theme=onedark&hide_border=true"
-    height="165"
-  />
-</p>
-
-
-
-
 
 <h3 align="center">📈 Contribution Activity</h3>
 
