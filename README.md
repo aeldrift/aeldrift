@@ -40,6 +40,10 @@ exploring AI, building creative projects, and growing through code.
 ---
 
 ### **Tech Stack**
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ai,git,github&perline=5" />
+</p> -->
+
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
@@ -51,10 +55,13 @@ exploring AI, building creative projects, and growing through code.
 
 ### **GitHub Stats**
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=tokyo-night&hide_border=true&area=true&line=FF6F91&point=A78BFA" />
+<br>
+<p align="center">
+  <sub>🔍 Click the graph to explore my GitHub profile</sub> </p>
+</p> </p>
 
----
 
 <!-- ### **Top Projects**
 
