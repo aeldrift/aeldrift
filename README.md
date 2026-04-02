@@ -3,9 +3,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=420&height=42&lines=Building+%26+exploring+AI+%3A)" />
     <?p> -->
 
-
+<br>
+  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=50&duration=1&pause=100000&color=FF6F91&center=true&vCenter=true&width=700&height=80&lines=Hello!+I%27m+Teesha" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=70&duration=0.1&pause=100000&color=FF6F91&center=true&vCenter=true&width=700&height=130&lines=Hello!+I%27m+Teesha" />
 <br>
  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=28&duration=3000&pause=1000&color=A78BFA&center=true&valign=right&width=420&height=50&lines=Building+%26+exploring+AI+%3A)" />
 </p>
