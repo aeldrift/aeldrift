@@ -66,12 +66,12 @@ exploring AI, building creative projects, and growing through code.
 ### **Contribution Graph 🐍**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aeldrift/aeldrift/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/aeldrift/aeldrift/output/snake.svg" />
 </p>
 
 ✨ *"Growth is my goal."*
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:jindalteesha22@gmail.com">
   <img align="right" alt="Email" width="21px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 
