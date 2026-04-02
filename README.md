@@ -1,103 +1,66 @@
-<!-- 🌊 Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Aeldrift&fontSize=50&fontColor=ffffff&color=0:8A2BE2,50:00E5FF,100:FFD700&animation=fadeIn" />
+  <img width="80%" alt="Hello, I'm Teesha" src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Hey,%20I'm%20Teesha%20👋&fontSize=40&fontColor=8A2BE2" />
 </p>
 
-<!-- 👋 Intro -->
-<h1 align="center">Hey, I'm Teesha 👋</h1>
-<p align="center">
-  <b>🚀 Engineering Student | 🤖 AI Explorer | 🎨 Creative Developer</b>
-</p>
+<br />
 
-<!-- 🧠 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2000&pause=1000&color=DA00FF&center=true&vCenter=true&width=700&lines=Building+with+logic+%26+creativity;Exploring+AI+%26+Machine+Learning;Consistency+is+my+superpower" />
-</p>
+I'm a passionate engineering student from India 🇮🇳  
+exploring AI, building creative projects, and growing through code.
 
 ---
 
-<!-- 🧩 About Me -->
-<h2 align="center">🧩 About Me</h2>
+### **About me**
 
-<p align="center">
-💡 Passionate about solving real-world problems with code<br>
-🤖 Currently diving deeper into AI & Machine Learning<br>
-🎨 Love blending design with development<br>
-🚀 Strong believer in discipline, consistency & growth<br><br>
-
-"Every bug is a lesson. Every project is progress."
-</p>
+- 🎓 Engineering student focused on building real-world solutions  
+- 🤖 Currently learning AI & Machine Learning  
+- 💡 Love combining **logic + creativity**  
+- 🚀 Growth mindset: Discipline • Consistency • Progress  
+- 💬 Ask me anything [here](https://github.com/aeldrift/issues)
 
 ---
 
-<!-- ⚡ Tech Stack -->
-<h2 align="center">🚀 Tech Stack</h2>
+### **Tech Stack**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,c,figma,vscode,git,github&theme=light" />
-</p>
-
----
-
-<!-- 📊 GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeldrift&theme=tokyonight&hide_border=true"/>
-</p>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
 
 ---
 
-<!-- 📈 Contribution Graph -->
-<h2 align="center">📈 Contribution Activity</h2>
+### **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=tokyo-night&hide_border=true"/>
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aeldrift&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeldrift&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 ---
 
-<!-- 🏆 Trophies -->
-<h2 align="center">🏆 Achievements</h2>
+### **Top Projects**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aeldrift&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
+<a href="https://github.com/aeldrift">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aeldrift&repo=your-repo-name&theme=buefy" />
+</a>
 
----
+<a href="https://github.com/aeldrift">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aeldrift&repo=your-second-repo&theme=buefy" />
+</a>
 
-<!-- 🌐 Connect -->
-<h2 align="center">🌐 Let's Connect</h2>
-
-<p align="center">
-  <a href="https://in.linkedin.com/in/teesha-jindal">
-    <img src="https://img.shields.io/badge/LinkedIn-Teesha%20Jindal-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/aeldrift">
-    <img src="https://img.shields.io/badge/GitHub-aeldrift-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<br />
+<br />
 
 ---
 
-<!-- 💬 Quote -->
-<h3 align="center">✨ "Growth is my goal."</h3>
+### **Connect with me**
+
+<a href="https://in.linkedin.com/in/teesha-jindal">
+  <img align="right" alt="LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+
+<a href="https://github.com/aeldrift">
+  <img align="right" alt="GitHub" width="21px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
+</a>
 
 ---
 
-<!-- 🐍 Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aeldrift/aeldrift/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-<!-- 🌊 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,50:00E5FF,100:FFD700"/>
-</p>
+✨ *"Growth is my goal."*
