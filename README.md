@@ -34,8 +34,11 @@ exploring AI, building creative projects, and growing through code.
 - 🎓 Engineering student focused on building real-world solutions  
 - 🤖 Currently learning AI & Machine Learning  
 - 💡 Love combining **logic + creativity**  
-- 🚀 Growth mindset: Discipline • Consistency • Progress  
-- 💬 Ask me anything [here](https://github.com/aeldrift/issues)
+- 🚀 Growth mindset: Discipline • Consistency • Progress
+- 💬 Ask me anything [here](https://github.com/aeldrift/aeldrift/issues/new)
+  
+<!-- 💬 Ask me anything [here](https://github.com/aeldrift/issues) -->
+
 
 ---
 
