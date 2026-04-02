@@ -61,5 +61,20 @@ exploring AI, building creative projects, and growing through code.
 </a>
 
 ---
+---
+
+### **Contribution Graph 🐍**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aeldrift/aeldrift/output/snake.svg" alt="snake animation" />
+</p>
 
 ✨ *"Growth is my goal."*
+
+<a href="mailto:your-email@example.com">
+  <img align="right" alt="Email" width="21px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+</a>
+
+<a href="https://in.linkedin.com/in/teesha-jindal">
+  <img align="right" alt="LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
