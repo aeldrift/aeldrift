@@ -1,10 +1,25 @@
+
+  <!-- <p align="right" style="margin: 0; padding: 0; margin-right: 120px; margin-top:-12px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=420&height=42&lines=Building+%26+exploring+AI+%3A)" />
+    <?p> -->
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=45&duration=1&pause=100000&color=FF6F91&center=true&vCenter=true&width=700&height=80&lines=Hello!+I'm+Teesha" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=50&duration=1&pause=100000&color=FF6F91&center=true&vCenter=true&width=700&height=80&lines=Hello!+I%27m+Teesha" />
+<br>
+ <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=28&duration=3000&pause=1000&color=A78BFA&center=true&valign=right&width=420&height=50&lines=Building+%26+exploring+AI+%3A)" />
+</p>
+
+
+
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=48&duration=1&pause=100000&color=FF6F91&center=true&vCenter=true&width=700&height=90&lines=Hello!+I'm+Teesha" />
 </p>
 
 <p align="center" style="margin-top:-30px;">
   <img src="https://readme-typing-svg.demolab.com?font=Handlee&size=26&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=50&lines=I+build+and+explore+AI+%3A)" />
-</p>
+</p> -->
 
 <br />
 
