@@ -10,12 +10,57 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: aeldrift
-          outputs: |
-            dist/snake.svg
+      # 1. Checkout repo
+      - uses: actions/checkout@v3
 
+      # 2. Get contribution graph (JSON via GitHub API)
+      - name: Fetch contributions
+        run: |
+          curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          -X POST https://api.github.com/graphql \
+          -d '{
+            "query": "query { user(login: \"aeldrift\") { contributionsCollection { contributionCalendar { weeks { contributionDays { contributionCount } } } } } }"
+          }' > contributions.json
+
+      # 3. Generate SVG from real data
+      - name: Generate Filling Snake SVG
+        run: |
+          mkdir -p dist
+
+          echo '<svg viewBox="0 0 720 110" xmlns="http://www.w3.org/2000/svg">' > dist/snake.svg
+          echo '<rect width="720" height="110" fill="#0d1117"/>' >> dist/snake.svg
+          echo '<g>' >> dist/snake.svg
+
+          index=0
+
+          weeks=$(jq '.data.user.contributionsCollection.contributionCalendar.weeks' contributions.json)
+
+          for col in $(seq 0 51); do
+            for row in $(seq 0 6); do
+              
+              count=$(echo "$weeks" | jq ".[$col].contributionDays[$row].contributionCount")
+
+              xpos=$((col * 14))
+              ypos=$((row * 14))
+              delay=$(echo "$index * 0.02" | bc)
+
+              if [ "$count" -gt 0 ]; then
+                color="#39d353"
+              else
+                color="#161b22"
+              fi
+
+              echo "<rect x=\"$xpos\" y=\"$ypos\" width=\"10\" height=\"10\" rx=\"2\" fill=\"#161b22\">
+              <animate attributeName=\"fill\" values=\"#161b22;${color}\" dur=\"0.3s\" begin=\"${delay}s\" fill=\"freeze\" />
+              </rect>" >> dist/snake.svg
+
+              index=$((index + 1))
+            done
+          done
+
+          echo '</g></svg>' >> dist/snake.svg
+
+      # 4. Push to output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
