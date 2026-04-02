@@ -33,7 +33,9 @@ Currently focused on writing clean, efficient solutions and exploring the practi
 <b>🐍 Python &nbsp;|&nbsp; 🌐 HTML & CSS &nbsp;|&nbsp; 💻 C Language &nbsp;|&nbsp; 🤖 AI & ML (Learning)</b>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-USERNAME)
+
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR-USERNAME)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Teesha%20Jindal-blue?logo=linkedin)](https://in.linkedin.com/in/teesha-jindal)
 
 <h3 align="center">📈 Contribution Activity</h3>
 
