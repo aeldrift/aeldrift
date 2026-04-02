@@ -66,9 +66,9 @@ exploring AI, building creative projects, and growing through code.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=tokyo-night&hide_border=true&area=true&line=FF6F91&point=A78BFA" />
 <br>
-<p align="center">
+<!--  <p align="center">
   <sub>🔍 Click the graph to explore my GitHub profile</sub> </p>
-</p> </p>
+</p> </p>  -->
 
 
 <!-- ### **Top Projects**
