@@ -36,7 +36,7 @@ exploring AI, building creative projects, and growing through code.
 
 ---
 
-### **Top Projects**
+<!-- ### **Top Projects**
 
 <a href="https://github.com/aeldrift">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aeldrift&repo=your-repo-name&theme=buefy" />
@@ -47,9 +47,8 @@ exploring AI, building creative projects, and growing through code.
 </a>
 
 <br />
-<br />
+<br /> -->
 
----
 
 ### **Connect with me**
 
