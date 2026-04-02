@@ -1,13 +1,10 @@
-<!-- <p align="center">
-  <img width="80%" alt="Hello, I'm Teesha" src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Hey,%20I'm%20Teesha%20👋&fontSize=40&fontColor=8A2BE2" />
-</p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=45&duration=3000&pause=1000&color=FF6F91&center=true&vCenter=true&width=600&lines=Hello!+I'm+Teesha" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=I+build+and+exploring+AI+%3A)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=45&duration=1&pause=100000&color=FF6F91&center=true&vCenter=true&width=700&height=80&lines=Hello!+I'm+Teesha" />
 </p>
 
-<br />
+<p align="center" style="margin-top:-30px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Handlee&size=26&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=50&lines=I+build+and+explore+AI+%3A)" />
+</p>
 
 <br />
 
