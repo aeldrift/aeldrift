@@ -1,6 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img width="80%" alt="Hello, I'm Teesha" src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Hey,%20I'm%20Teesha%20👋&fontSize=40&fontColor=8A2BE2" />
-</p>
+</p> -->
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Heyo, I'm Teesha. I do learn!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 <br />
 
