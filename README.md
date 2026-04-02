@@ -50,18 +50,17 @@ exploring AI, building creative projects, and growing through code.
 <br /> -->
 
 
-### **Connect with me**
+<!-- ### **Connect with me**
 
-<a href="https://in.linkedin.com/in/teesha-jindal">
+ <a href="https://in.linkedin.com/in/teesha-jindal">
   <img align="right" alt="LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <a href="https://github.com/aeldrift">
   <img align="right" alt="GitHub" width="21px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
-</a>
+</a> -->
 
----
----
+
 
 ### **Contribution Graph 🐍**
 
