@@ -40,16 +40,21 @@ exploring AI, building creative projects, and growing through code.
 ---
 
 ### **Tech Stack**
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ai,git,github&perline=5" />
-</p> -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,html,css,figma&perline=5" />
+</p>
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github,python&perline=5" /> &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50"/>
+</p>
 
 
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<!--  <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
-<code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
+<code><img height="20" alt="figma" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code> -->
 
 ---
 
