@@ -108,11 +108,17 @@ exploring AI, building creative projects, and growing through code.
 
 ✨ *"Growth is my goal."*
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=teeshajindal03@gmail.com">
+<!-- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=teeshajindal03@gmail.com">
   <img align="right" alt="Email" width="21px"
        src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 
 <a href="https://in.linkedin.com/in/teesha-jindal">
   <img align="right" alt="LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+</a> -->
+
+
+
+# Socials:
+# Socials:
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=teeshajindal03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/teesha-jindal)
