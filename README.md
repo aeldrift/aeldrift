@@ -108,7 +108,7 @@ exploring AI, building creative projects, and growing through code.
 
 ✨ *"Growth is my goal."*
 
-<a href="mailto:jindalteesha22@gmail.com">
+<a href="https://mail.google.com/teeshajindal03@gmail.com">
   <img align="right" alt="Email" width="21px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 
