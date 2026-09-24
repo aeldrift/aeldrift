@@ -118,7 +118,5 @@ exploring AI, building creative projects, and growing through code.
 </a> -->
 
 
-
-# Socials:
 # Socials:
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=teeshajindal03@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/teesha-jindal)
