@@ -31,7 +31,7 @@ exploring AI, building creative projects, and growing through code.
 
 <!--### **About me**-->
   # About Me:
-- B.Tech CSE student at Maharishi Markandeshwar (Deemed to be) University, Mullana, Ambala, Haryana, India
+B.Tech CSE student at Maharishi Markandeshwar (Deemed to be) University, Mullana, Ambala, Haryana, India
 
 <!--🎓 Engineering student--> 
  - 🎓 focused on building real-world solutions
