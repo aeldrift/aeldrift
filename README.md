@@ -32,8 +32,9 @@ exploring AI, building creative projects, and growing through code.
 <!--### **About me**-->
   # About Me:
 - B.Tech. CSE student at Maharishi Markandeshwar (Deemed to be) University, Mullana, Ambala, Haryana, India
-- Arch Linux User
-- 🎓 Engineering student focused on building real-world solutions  
+
+<!--🎓 Engineering student--> 
+- 🎓 focused on building real-world solutions
 - 🤖 Currently learning AI & Machine Learning  
 - 💡 Love combining **logic + creativity**  
 - 🚀 Growth mindset: Discipline • Consistency • Progress
