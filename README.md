@@ -31,14 +31,14 @@ exploring AI, building creative projects, and growing through code.
 
 <!--### **About me**-->
   # About Me:
-- B.Tech. CSE student at Maharishi Markandeshwar (Deemed to be) University, Mullana, Ambala, Haryana, India
+- B.Tech CSE student at Maharishi Markandeshwar (Deemed to be) University, Mullana, Ambala, Haryana, India
 
 <!--🎓 Engineering student--> 
-- 🎓 focused on building real-world solutions
-- 🤖 Currently learning AI & Machine Learning  
-- 💡 Love combining **logic + creativity**  
-- 🚀 Growth mindset: Discipline • Consistency • Progress
-- 💬 Ask me anything [here](https://github.com/aeldrift/aeldrift/issues/new)
+ - 🎓 focused on building real-world solutions
+ - 🤖 Currently learning AI & Machine Learning  
+ - 💡 Love combining **logic + creativity**  
+ - 🚀 Growth mindset: Discipline • Consistency • Progress
+ - 💬 Ask me anything [here](https://github.com/aeldrift/aeldrift/issues/new)
   
 <!-- 💬 Ask me anything [here](https://github.com/aeldrift/issues) -->
 
