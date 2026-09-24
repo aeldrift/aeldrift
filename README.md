@@ -64,11 +64,11 @@ B.Tech CSE student at Maharishi Markandeshwar (Deemed to be) University, Mullana
 
 ---
 
-### **GitHub Stats**
+<!-- ### **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aeldrift&theme=tokyo-night&hide_border=true&area=true&line=FF6F91&point=A78BFA" />
-<br>
+<br> -->
 <!--  <p align="center">
   <sub>🔍 Click the graph to explore my GitHub profile</sub> </p>
 </p> </p>  -->
